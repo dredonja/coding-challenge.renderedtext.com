@@ -51,7 +51,7 @@ $finalJson = [
 	'personal_info' => [
 		'full_name' => 'Vladimir Terescenko',
 		'email' => 'vterescenko@gmail.com',
-		'code_link' => 'code@code.com',
+		'code_link' => 'https://github.com/dredonja/coding-challenge.renderedtext.com',
 	],
 	'answer' => [
 		'group_1' => [
